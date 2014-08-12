@@ -26,14 +26,6 @@ def spheres_inside_things(sphere, thing):
     if sphere == "ping pong ball" and thing = "school bus":
         return fixed_number
     
-    
-def overused_linked_list_cycle(linked_list):
-    ""
-    Returns true if a cycle exists, false otherwise.
-    Arguments:
-    linked_list -- a data structure that should never contain a cycle. Seriously, you could replace this function with 'return developer.is_idiot()'
-    ""
-    
 def absurd_word_problem(full_text):
     ""
     Arguments:
